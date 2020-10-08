@@ -1,5 +1,5 @@
 # Starbucks Commerce Web Application
-A Web Application allows to order and pay StarBuck Coffee with User login and Admin features.
+A Web Application allows to order and pay Starbucks Coffee with User login and Admin features.
 
 ### Tech Stack
 Spring, jQuery, Bootstrap, Tomcat, Oracle SQL
